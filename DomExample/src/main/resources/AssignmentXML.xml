@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <AccountList>
+    <Account>
+        <Name>Standard Charted Capital Solutions</Name>
+        <OrganizationNumber>2432</OrganizationNumber>
+        <Address1>23-59</Address1>
+        <Address2>Staines Road</Address2>
+        <City>Hounslow</City>
+        <Country>UK</Country>
+        <ProgramName>Program1</ProgramName>
+        <CreditLine>24124124.12</CreditLine>
+    </Account>
+     <Account>
+        <Name>Barclays Bank</Name>
+        <OrganizationNumber>4343</OrganizationNumber>
+        <Address1>23-49</Address1>
+        <Address2>Barclays Road</Address2>
+        <City>Slough</City>
+        <Country>UK</Country>
+        <ProgramName>Program1</ProgramName>
+        <CreditLine>67678967.12</CreditLine>
+    </Account>
+     <Account>
+        <Name>HSBC Bank</Name>
+        <OrganizationNumber>5354</OrganizationNumber>
+        <Address1>23-67</Address1>
+        <Address2>HSBC Road</Address2>
+        <City>Bangalore</City>
+        <Country>India</Country>
+        <ProgramName>Program2</ProgramName>
+        <CreditLine>678657.12</CreditLine>
+    </Account>
+     <Account>
+        <Name>Soceite Standard Chartednerale</Name>
+        <OrganizationNumber>6865</OrganizationNumber>
+        <Address1>87-59</Address1>
+        <Address2>Staines Road</Address2>
+        <City>Paris</City>
+        <Country>France</Country>
+        <ProgramName>Program3</ProgramName>
+        <CreditLine>67679.12</CreditLine>
+    </Account>
+     <Account>
+        <Name>BNP Paribas</Name>
+        <OrganizationNumber>4346</OrganizationNumber>
+        <Address1>4345-59</Address1>
+        <Address2>BNP Road</Address2>
+        <City>Paris</City>
+        <Country>France</Country>
+        <ProgramName>Program3</ProgramName>
+        <CreditLine>67679.12</CreditLine>
+    </Account>
+    <Account>
+        <Name>ICICI Bank</Name>
+        <OrganizationNumber>2412</OrganizationNumber>
+        <Address1>4345-59</Address1>
+        <Address2>ICICI Road</Address2>
+        <City>Mumbai</City>
+        <Country>India</Country>
+        <ProgramName>Program2</ProgramName>
+        <CreditLine>67679.12</CreditLine>
+    </Account>
+      <Account>
+        <Name>Axis Bank</Name>
+        <OrganizationNumber>5656</OrganizationNumber>
+        <Address1>4345-59</Address1>
+        <Address2>Axis Road</Address2>
+        <City>Noida</City>
+        <Country>India</Country>
+        <ProgramName>Program2</ProgramName>
+        <CreditLine>8678547.12</CreditLine>
+    </Account>
+</AccountList>
