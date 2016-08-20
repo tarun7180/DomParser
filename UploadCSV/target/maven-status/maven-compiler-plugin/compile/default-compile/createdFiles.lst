@@ -1,0 +1,6 @@
+example\CSVReader.class
+example\model\Student.class
+example\service\StudentManager.class
+example\service\impl\StudentManagerImpl.class
+example\dao\StudentDAO.class
+example\dao\impl\StudentDAOImpl.class
