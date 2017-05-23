@@ -11,13 +11,9 @@ public class SubArray3 {
 
 		int count = 0;
 		
-		boolean[] flagArr = new boolean[len2];
-		boolean flag = false;
-		
 		for(int i=0;i<len1;i++) {
 			for(int j=0;j<len2;j++) {
 				if(clone1[i] == arr2[j]) {
-					flagArr[j] = true;
 					clone1[i] = -1;
 					count++;
 				}
