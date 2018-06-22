@@ -25,4 +25,8 @@ public class ItemService {
 	public Item getItemByName(String itemName) {
 		return itemRepository.getItemByName(itemName);
 	}
+	
+	public List<Item> getItemByNameOrderByItemCondition(String itemName) {
+		return itemRepository.getItemByNameOrderByItemCondition(itemName);
+	}
 }
