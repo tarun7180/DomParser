@@ -9,4 +9,5 @@ import com.example.demo.model.Item;
 public interface ItemRepository extends JpaRepository<Item, Long>{
 	public Item getItemByName(String name);
 	public List<Item> getItemByNameOrderByItemCondition(String name);
+	public List<Item> getItemByNameOrderByItemConditionDesc(String name);
 }

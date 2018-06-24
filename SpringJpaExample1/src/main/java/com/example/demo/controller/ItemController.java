@@ -39,4 +39,9 @@ public class ItemController {
 	public List<Item> getItemByNameOrderByItemCondition(@PathVariable final String itemName) {
 		return itemService.getItemByNameOrderByItemCondition(itemName);
 	}
+	
+	@GetMapping(path = "/OrdernameDesc/{itemName}")
+	public List<Item> getItemByNameOrderByItemConditionDesc(@PathVariable final String itemName) {
+		return itemService.getItemByNameOrderByItemConditionDesc(itemName);
+	}
 }
