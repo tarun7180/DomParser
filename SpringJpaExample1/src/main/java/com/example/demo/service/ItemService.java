@@ -33,4 +33,8 @@ public class ItemService {
 	public List<Item> getItemByNameOrderByItemConditionDesc(String itemName) {
 		return itemRepository.getItemByNameOrderByItemConditionDesc(itemName);
 	}
+	
+	public List<Item> getItemByItemConditionGood() {
+		return itemRepository.getItemByItemConditionGood();
+	}
 }

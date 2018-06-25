@@ -44,4 +44,9 @@ public class ItemController {
 	public List<Item> getItemByNameOrderByItemConditionDesc(@PathVariable final String itemName) {
 		return itemService.getItemByNameOrderByItemConditionDesc(itemName);
 	}
+	
+	@GetMapping(path = "/goodItems")
+	public List<Item> getItemByItemConditionGood() {
+		return itemService.getItemByItemConditionGood();
+	}
 }
